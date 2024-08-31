@@ -1,0 +1,19 @@
+.friendAvatar {
+  width: 110px;
+  margin-bottom: 14px;
+}
+
+.friendName {
+  color: #000000;
+  font-size: 34px;
+}
+
+.friendStatusGreen {
+  color: #008000;
+  font-size: 24px;
+}
+
+.friendStatusRed {
+  color: #ff0000;
+  font-size: 24px;
+}
